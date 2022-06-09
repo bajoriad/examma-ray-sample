@@ -1,0 +1,29 @@
+{
+  "name": "examma-ray-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesjuett/examma-ray-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesjuett/examma-ray-sample/issues"
+  },
+  "homepage": "https://github.com/jamesjuett/examma-ray-sample#readme",
+  "dependencies": {
+    "dedent": "^0.7.0",
+    "indent-string": "4.0.0",
+    "minimist": "^1.2.6",
+    "ts-node": "^10.8.1"
+  },
+  "devDependencies": {
+    "@types/minimist": "^1.2.2"
+  }
+}

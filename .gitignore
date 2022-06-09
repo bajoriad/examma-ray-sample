@@ -1,0 +1,8 @@
+node_modules/
+out/
+/*/data/*
+*Zone.Identifier
+.DS_Store
+/temp_exam
+.vscode
+*.crswap
