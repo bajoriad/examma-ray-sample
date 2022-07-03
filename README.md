@@ -1,3 +1,7 @@
+# My Role
+
+Using this repository for generating default exam pages on the web browser and testing the new features.
+
 # examma-ray-sample
 
 This repository contains sample exam content and specifications using [examma-ray](https://github.com/jamesjuett/examma-ray) based on publicly release practice exams for EECS 280 at the University of Michigan.
